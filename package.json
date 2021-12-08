@@ -1,0 +1,19 @@
+{
+  "name": "com.codegiraffe.nonstandard.particles",
+  "version": "1.0.0",
+  "displayName": "NonStandard Particles",
+  "description": "Particle related convenience methods",
+  "unity": "2017.1",
+  "keywords": [
+    "library",
+    "utility",
+    "scripting",
+    "extensions"
+  ],
+  "author": {
+    "name": "Michael Vaganov",
+    "email": "mvaganov@hotmail.com",
+    "url": "http://www.codegiraffe.com"
+  },
+  "type": "library"
+}
