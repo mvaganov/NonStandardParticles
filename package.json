@@ -4,6 +4,10 @@
   "displayName": "NonStandard Particles",
   "description": "Particle related convenience methods",
   "unity": "2017.1",
+  "dependencies": {
+    "com.unity.textmeshpro": "1.0.2",
+    "com.codegiraffe.nonstandard.system": "1.0.0"
+  },
   "keywords": [
     "library",
     "utility",
